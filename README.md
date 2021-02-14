@@ -1,3 +1,2 @@
 # Bootstrap-Template-1
  First Bootstrap template created by me
-<div class="tenor-gif-embed" data-postid="6139458" data-share-method="host" data-width="100%" data-aspect-ratio="1.7866666666666664"><a href="https://tenor.com/view/adderall-awake-hyper-excited-bed-gif-6139458">Adderall Awake GIF</a> from <a href="https://tenor.com/search/adderall-gifs">Adderall GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
