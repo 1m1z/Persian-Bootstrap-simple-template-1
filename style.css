@@ -7,6 +7,53 @@
 
 
 
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* button */
+::-webkit-scrollbar-button {
+    display: none;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgb(116, 116, 116);
+    border-radius: 5px 5px 5px 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(221, 220, 220);
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: rgb(65, 65, 65);
+}
+
+/* The track NOT covered by the handle.
+::-webkit-scrollbar-track-piece {
+    background: #000;
+}
+
+/* Corner */
+::-webkit-scrollbar-corner {
+    background: #999;
+}
+
+/* Resizer */
+::-webkit-resizer {
+    background: #111;
+}
+
+
+
+
+
+
 body{
     background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #959be8, #8e9cef, #869df6, #9093fe, #a186ff, #b775ff, #cf5ffb);
     margin-top:100px ;
